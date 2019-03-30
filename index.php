@@ -29,7 +29,7 @@
     $host = "mydatabaseazure1.database.windows.net";
     $user = "rgunawan";
     $pass = "Rahasia123";
-    $db = "Registration";
+    $db = "mydb1";
 
     try {
         $conn = new PDO("sqlsrv:server = $host; Database = $db", $user, $pass);
