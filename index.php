@@ -28,7 +28,7 @@
  <?php
     $host = "mydatabaseazure1.database.windows.net";
     $user = "rgunawan";
-    $pass = "P@$$W0rd";
+    $pass = "Rahasia123";
     $db = "Registration";
 
     try {
